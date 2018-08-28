@@ -6,3 +6,14 @@ project_wiki: https://google.com
 project_issues: https://google.com
 google_analytics:
 theme: minimal-architect
+menu:
+  - menu-label: test label
+    menu-url: /test
+  - menu-label: test label 2
+    menu-url: /test2
+  - menu-label: test label 3
+    menu-url: /test3
+  - menu-label: test label 4
+    menu-url: /test4
+  - menu-label: test label 5
+    menu-url: /test5
