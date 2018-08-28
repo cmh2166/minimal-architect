@@ -1,9 +1,0 @@
----
-header:
-  - url: /another-page
-    title: Another Page
-    identifier: another-page
-  - url: /api
-    title: API
-    identifier: api
----
